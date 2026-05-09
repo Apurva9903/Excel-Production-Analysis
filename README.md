@@ -35,7 +35,7 @@ The final output is a dynamic dashboard that allows users to:
 - **Growth:** Production peaked in the first half of 2024, specifically in February and June.
 
 ## 📂 Project Structure
-- **/Data**: Contains both raw `Uncleaned` and final `Cleaned` CSV files.
+- **/Data**: Contains raw `Uncleaned` file.
 - **/Analysis**: Pivot table summaries and calculation logic.
 - **/Dashboard**: The final Excel file with the visual reporting interface.
 
